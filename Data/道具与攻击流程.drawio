@@ -4,29 +4,132 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-98" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="460" height="680" as="geometry" />
+        <mxCell id="5SardQNQk5h0Br-7W5TC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-4" target="5SardQNQk5h0Br-7W5TC-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="110" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="420" height="640" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-100" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;卡片&lt;br&gt;类型&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-101" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;卡片名&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="105" width="290" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-102" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;消耗&lt;br&gt;行动值&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="90" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-103" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;效果描述区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="400" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-104" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图片展示区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yHGfgmWwClQTFSnPWuJ6-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yHGfgmWwClQTFSnPWuJ6-104" target="yHGfgmWwClQTFSnPWuJ6-104">
+        <mxCell id="5SardQNQk5h0Br-7W5TC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-3" target="5SardQNQk5h0Br-7W5TC-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-3" value="玩家从手牌中使用道具牌" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-4" value="干员的行动回合内" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-14" target="5SardQNQk5h0Br-7W5TC-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-5">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-9" target="5SardQNQk5h0Br-7W5TC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-8" value="干员使用道具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-7">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-9" value="指定对应的我方干员，装备道具" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-11" target="5SardQNQk5h0Br-7W5TC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-11" value="干员消耗对应行动值，发动道具效果&lt;br&gt;(若为伤害效果,结算流程参考攻击&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="460" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-14" target="5SardQNQk5h0Br-7W5TC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-12">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-14" value="干员是否明置" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-15" value="明置干员" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-15" target="5SardQNQk5h0Br-7W5TC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-19" target="5SardQNQk5h0Br-7W5TC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-17">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-19" value="道具使用次数归零" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="560" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-20" value="道具置入弃牌区" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="680" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-22" target="5SardQNQk5h0Br-7W5TC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-22" value="攻击/伤害结算流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-24" target="5SardQNQk5h0Br-7W5TC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-24" value="明确攻击方干员和被攻击方干员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-31" target="5SardQNQk5h0Br-7W5TC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-26" value="中路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-25">
+          <mxGeometry x="-0.32" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-31" target="5SardQNQk5h0Br-7W5TC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-28" value="下路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-27">
+          <mxGeometry x="-0.0968" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-31" target="5SardQNQk5h0Br-7W5TC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-30" value="上路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="5SardQNQk5h0Br-7W5TC-29">
+          <mxGeometry x="-0.0839" y="1" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-31" value="攻击方路线选择" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-33" target="5SardQNQk5h0Br-7W5TC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-33" value="计算路线上的场景卡效果对攻击的影响" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5SardQNQk5h0Br-7W5TC-35" target="5SardQNQk5h0Br-7W5TC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-35" value="结算被攻击方受到的伤害" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5SardQNQk5h0Br-7W5TC-36" value="如果有溅射，计算溅射伤害" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="557" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
